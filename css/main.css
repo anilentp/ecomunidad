@@ -1,0 +1,87 @@
+*{
+	font-family: tahoma;
+}
+
+.semilla{
+	position: relative;
+	top:-150px;
+	left:0;
+ 	width: 100%;
+ 	height: 100%;
+ 	margin: none;
+
+}
+.menu{
+	background-color: white;
+	position: absolute;
+	top: 0;
+	left: 0;
+	color: #B2B2B2;
+	width: 100%;
+
+}
+.logo{
+	height: 100%;
+	width: 100%;
+	max-height: 100px;
+	max-width: 100px;
+}
+li{
+	text-align: center;
+	display: inline;
+	font-size: 18px;
+	margin: 0 auto;
+}
+.boton{
+	padding: 0 10px;
+}
+.sep:after{
+	content: "|";
+	padding-left: 10px;
+	padding-right: 10px;
+	margin: 0 auto;
+	color: #B2B2B2;
+}
+a:link{
+	text-decoration: none;
+	color: #B2B2B2;
+}
+a:hover{
+	color: #5FA100;
+}
+.bg-gray{
+	text-align: center;
+	position: absolute;
+	bottom: -15%;
+	padding: 6%;
+	color: #B2B2B2;
+	
+}
+.mision{
+	text-align: center;
+	color: #B2B2B2;
+}
+.vision{
+	text-align: center;
+	color: #B2B2B2;
+}
+.metodologia{
+	text-align: center;
+	display: inline;
+	position: relative;
+	left: 5%;
+}
+.metodo{
+	position: absolute;
+	right: 12%;
+	top: 15%;
+	text-align: center;
+}
+.servicio{
+	text-align: center;
+	color: #B2B2B2;
+	margin: 0 auto;	
+	position: relative;
+	left: 5%;
+	display: inline-block;
+}
